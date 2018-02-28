@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdditionSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-02-28T11:24:31" hostname="Archit-Chauhan" time="0.078">
+  <properties/>
+  <testcase name="canary test" classname="AdditionSpec" time="0.074"/>
+  <testcase name="testSumInts" classname="AdditionSpec" time="0.002"/>
+  <testcase name="testSumStrings" classname="AdditionSpec" time="0.002"/>
+  <system-out><![CDATA[this is canary test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
